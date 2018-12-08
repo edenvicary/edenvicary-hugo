@@ -31,13 +31,6 @@ copyright = "&copy;2018 Eden Vicary"
       file = "eden_conversation.jpg"
       position = "center center"
 
-    # Video
-    [params.visual.video]
-      enable = false
-      mute = true
-      file = "videos/background.mp4"
-      # youtubeId = "dk9uNWPP7EA"
-
   # Links
   #
   # Links List #1
