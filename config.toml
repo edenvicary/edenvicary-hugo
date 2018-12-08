@@ -31,58 +31,37 @@ copyright = "&copy;2018 Eden Vicary"
       file = "eden_conversation.jpg"
       position = "center center"
 
-  # Links
-  #
-  # Links List #1
   [[params.links]]
     [params.links.list1]
-      heading = "Connect"
+      heading = "Work"
 
       [[params.links.list1.link]]
-        text = "Blog"
-        url = "#"
+        text = "LinkedIn"
+        url = "https://www.linkedin.com/in/edenvicary/"
 
       [[params.links.list1.link]]
-        text = "Email"
-        url = "#"
+        text = "GitHub"
+        url = "https://github.com/edenvicary"
 
       [[params.links.list1.link]]
-        text = "Newsletter"
-        url = "#"
+        text = "Medium"
+        url = "https://medium.com/@edenvicary"
 
-  # Links List #2
   [[params.links]]
     [params.links.list2]
-      heading = "Social"
-
-      [[params.links.list2.link]]
-        text = "Twitter"
-        url = "#"
+      heading = "Personal"
 
       [[params.links.list2.link]]
         text = "Instagram"
-        url = "#"
+        url = "https://www.instagram.com/edenvicary/"
 
       [[params.links.list2.link]]
-        text = "Dribbble"
-        url = "#"
+        text = "Facebook"
+        url = "https://www.facebook.com/edenvicary"
 
-  # Links List #3
-  [[params.links]]
-    [params.links.list3]
-      heading = "Network"
-
-      [[params.links.list3.link]]
-        text = "Link One"
-        url = "#"
-
-      [[params.links.list3.link]]
-        text = "Link Two"
-        url = "#"
-
-      [[params.links.list3.link]]
-        text = "Link Three"
-        url = "#"
+      [[params.links.list2.link]]
+        text = "Bible"
+        url = "https://my.bible.com/users/Edovic"
 
   # The original template is released under the Creative Commons Attribution 3.0 License.
   # Please keep the original attribution link when using for your own project.
