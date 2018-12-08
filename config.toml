@@ -28,7 +28,7 @@ copyright = "&copy;2018 Eden Vicary"
     # Image
     [params.visual.image]
       enable = true
-      file = "images/background.jpg"
+      file = "eden_conversation.jpg"
       position = "center center"
 
     # Video
