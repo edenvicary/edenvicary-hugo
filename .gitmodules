@@ -1,3 +1,7 @@
 [submodule "themes/hugo-split-theme"]
 	path = themes/hugo-split-theme
 	url = https://github.com/escalate/hugo-split-theme.git
+[submodule "public"]
+	path = public
+	url = git@github.com:edenvicary/edenvicary.github.io.git
+	branch = master
