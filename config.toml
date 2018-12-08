@@ -14,10 +14,10 @@ copyright = "&copy;2018 Eden Vicary"
 [params]
 
   # Metadata for search engines and social sharing
-  author = "Jenny Jones"
-  description = "Split is a centrally-divided layout for a professional online presence with a big image or video left with alongside content."
+  author = "Eden Vicary"
+  description = "I’m curious about how we can build tools to help people’s work lives be as effective and fun as possible!"
   shareImage = "images/social.jpg"
-  twitterHandle = "onepagelove"
+  twitterHandle = "edenvicary"
 
   # Favicon
   favicon = "favicon.ico"
