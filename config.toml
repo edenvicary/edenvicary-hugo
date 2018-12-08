@@ -1,7 +1,7 @@
 # Site settings
-baseURL = "//example.org"
+baseURL = "//edenvicary.com"
 languageCode = "en-US"
-title = "Split - HTML Template Demo"
+title = "Eden Vicary - Software Engineer"
 theme = "hugo-split-theme"
 disableKinds = ["section", "taxonomy", "taxonomyTerm", "RSS", "sitemap"]
 
@@ -9,7 +9,7 @@ disableKinds = ["section", "taxonomy", "taxonomyTerm", "RSS", "sitemap"]
 googleAnalytics = ""
 
 # Copyright
-copyright = "&copy;2018 Your Name"
+copyright = "&copy;2018 Eden Vicary"
 
 [params]
 
