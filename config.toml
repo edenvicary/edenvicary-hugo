@@ -60,8 +60,8 @@ copyright = "&copy;2018 Eden Vicary"
         url = "https://www.facebook.com/edenvicary"
 
       [[params.links.list2.link]]
-        text = "Bible"
-        url = "https://my.bible.com/users/Edovic"
+        text = "Twitter"
+        url = "https://twitter.com/edenvicary"
 
   # The original template is released under the Creative Commons Attribution 3.0 License.
   # Please keep the original attribution link when using for your own project.
