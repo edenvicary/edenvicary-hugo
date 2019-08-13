@@ -1,5 +1,5 @@
 # Site settings
-baseURL = "//edenvicary.com"
+baseURL = "//www.edenvicary.com"
 languageCode = "en-US"
 title = "Eden Vicary - Software Engineer"
 theme = "hugo-split-theme"
