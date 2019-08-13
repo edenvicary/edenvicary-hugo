@@ -1,5 +1,6 @@
-# edenvicary-hugo
-A 🏡for my 👨🏼‍💻
+# Eden Vicary's Personal Website
+
+Observe it at [edenvicary.com](https://edenvicary.com).
 
 ## Publish Updates
 
